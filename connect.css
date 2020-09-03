@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
  body{
-     background-image:url(img/face.jpg);
+     background-image:url(face.jpg);
      background-size: cover;
      background-position: center;
      font-family: sans-serif;
